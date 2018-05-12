@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '38655'
     url: http://www.gutenberg.org/2009/agents/38655
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37111#The-Zankiwank-and-The-BletherwitchAn-Original-Fantastic-Fairy-Extravaganza
 gutenberg_issued: '2011-08-17'
 gutenberg_type: Text
 identifiers:
